@@ -34,8 +34,8 @@ body {
 }
 
 #box {
-	margin-top: 7px;
-	margin-bottom: 6px;
+	margin-top: 30px;
+	margin-bottom: -2px;
 }
 
 
@@ -54,7 +54,8 @@ body {
 	padding: 10px; 
 	border-radius: 5px; 
 	border: solid #D4D4D4 1px; 
-	margin-bottom: 62px; 
+	margin-top: 4px;
+	margin-bottom: 42px; 
 	font-size: 24px;
 	margin-left: 0.9rem;
 }
@@ -103,7 +104,7 @@ button {
   padding: 0.8rem 1rem;
   color: #fff;
   font-size: 17px; 
-  margin-bottom: 19px;
+  margin-bottom: 6px;
   }
 
 button:hover {
